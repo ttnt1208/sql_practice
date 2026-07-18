@@ -1,0 +1,1 @@
+--k duoc de file trong thi git moi nhan dang
